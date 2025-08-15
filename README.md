@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto faz parte do desafio Tech Challenge da pós-graduação em Data Analytics da FIAP. O objetivo era realizar uma análise dos dados exploratoria (EDA) econômicos de diferentes países como ponto de partida para as análises de exportação do setor vitivinícola do Brasil, incluindo os vinhos de mesa, espumantes, suco de uva e uvas frescas.  
+Este projeto faz parte do desafio Tech Challenge da pós-graduação em Data Analytics da FIAP. O objetivo era realizar uma análise exploratória fos dados econômicos de diferentes países como ponto de partida para as análises de exportação do setor vitivinícola do Brasil, incluindo os vinhos de mesa, espumantes, suco de uva e uvas frescas.  
 
 A análise busca compreender a dinâmica econômica dos países e avaliar se indicadores como PIB, inflação, taxa de cambio, renda per capita e crescimento econômico podem influenciar as importações de outros paises do Brasil. Esses dados servem para identificar mercados estratégicos e orientar decisões sobre expansão de exportações e investimentos internacionais.
 
